@@ -1,4 +1,4 @@
-[GROUP BY, HAVING 설명]__
+[GROUP BY, HAVING 설명]_
 
 우선, 쿼리문의 실행 순서에 대해 알 필요가 있습니다.
 
